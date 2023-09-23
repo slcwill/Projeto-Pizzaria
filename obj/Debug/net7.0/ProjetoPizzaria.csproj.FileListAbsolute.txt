@@ -1,0 +1,14 @@
+C:\Users\quezi\OneDrive\ProjetoPizzaria\bin\Debug\net7.0\ProjetoPizzaria.exe
+C:\Users\quezi\OneDrive\ProjetoPizzaria\bin\Debug\net7.0\ProjetoPizzaria.deps.json
+C:\Users\quezi\OneDrive\ProjetoPizzaria\bin\Debug\net7.0\ProjetoPizzaria.runtimeconfig.json
+C:\Users\quezi\OneDrive\ProjetoPizzaria\bin\Debug\net7.0\ProjetoPizzaria.dll
+C:\Users\quezi\OneDrive\ProjetoPizzaria\bin\Debug\net7.0\ProjetoPizzaria.pdb
+C:\Users\quezi\OneDrive\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quezi\OneDrive\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.AssemblyInfoInputs.cache
+C:\Users\quezi\OneDrive\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.AssemblyInfo.cs
+C:\Users\quezi\OneDrive\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\quezi\OneDrive\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.dll
+C:\Users\quezi\OneDrive\ProjetoPizzaria\obj\Debug\net7.0\refint\ProjetoPizzaria.dll
+C:\Users\quezi\OneDrive\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.pdb
+C:\Users\quezi\OneDrive\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.genruntimeconfig.cache
+C:\Users\quezi\OneDrive\ProjetoPizzaria\obj\Debug\net7.0\ref\ProjetoPizzaria.dll
